@@ -1,3 +1,9 @@
+Fav Foods
 1. banana
 2. watermellon
 3. coffee
+=======
+Fav Movies
+1. Austin Powers
+2. Shrek
+3. Inception
